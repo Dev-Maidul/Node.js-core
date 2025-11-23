@@ -1,0 +1,24 @@
+{
+  "name": "module-10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "delete.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dev-Maidul/Node.js-core.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Dev-Maidul/Node.js-core/issues"
+  },
+  "homepage": "https://github.com/Dev-Maidul/Node.js-core#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  }
+}
